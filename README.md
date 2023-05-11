@@ -8,7 +8,9 @@ The major goal of the proposed model is to identify people and recognize them in
 This solution can be applied to various scenarios beyond education, such as in security and surveillance, healthcare, transportation, retail, and entertainment etc. The importance of the model lies in its ability to efficiently and accurately perform person identification and recognition in real-time scenarios, which can save time and resources and improve overall efficiency.
 
 TPI.ipynb - Actaul Code with EfficientDet and FaceNet Models (Preferebly use Google Colab)
+
 photos.zip - Custom student images dataset.
+
 vis_utils.py - Modified with updated methods to crop the persons.
 
 
